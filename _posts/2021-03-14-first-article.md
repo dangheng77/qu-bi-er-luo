@@ -1,6 +1,6 @@
 ---
 title:  "曲比尔洛"
-subtitle: "高个子彝族女孩"
+subtitle: "——高个子彝族女孩强棒女孩"
 author: "陈欣"
 image: assets/images/1.jpeg
 ---
@@ -12,9 +12,9 @@ Hi~大家好，很高兴认识你!
 
 ---
 title:  "小伙伴眼中的她"
-subtitle: "给全世界安利最好的曲比尔洛"
+subtitle: "——给全世界安利最好的曲比尔洛"
 author: "陈欣"
-image: "assets/images/2.jpeg"
+image: assets/images/2.jpeg
 ---
 
 
