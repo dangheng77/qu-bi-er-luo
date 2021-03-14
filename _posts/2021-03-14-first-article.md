@@ -2,7 +2,7 @@
 title:  "曲比尔洛"
 subtitle: "——高个子彝族女孩强棒女孩"
 author: "陈欣"
-image: assets/images/1.jpeg
+image: assets/images/gao-ge-zi-1.jpeg
 ---
 
 Hi~大家好，很高兴认识你!
