@@ -1,5 +1,3 @@
-![image.png](https://i.loli.net/2021/03/14/pqumNs71dVCF2Wn.png)
-
 ---
 # 曲比尔洛
 ### ——高个子彝族女孩强棒女孩
