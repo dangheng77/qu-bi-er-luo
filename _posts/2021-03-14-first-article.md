@@ -1,7 +1,11 @@
 ---
-# 曲比尔洛
-### ——高个子彝族女孩强棒女孩
+title:  "曲比尔洛"
+subtitle: "——高个子彝族女孩强棒女孩"
+author: "xin"
+avatar: "assets/images/authors/2.jpg"
+image: "assets/images/1.jpg"
 ---
+
 
 
 ![image.png](https://i.loli.net/2021/03/14/ia6JhS7rbnf2xXR.png)
