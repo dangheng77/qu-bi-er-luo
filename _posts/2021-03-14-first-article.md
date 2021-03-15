@@ -2,8 +2,8 @@
 title:  "曲比尔洛"
 subtitle: "——高个子彝族女孩强棒女孩"
 author: "xin"
-avatar: "assets/images/authors/2.jpg"
-image: "assets/images/1.jpg"
+avatar: "assets/images/1.jpeg"
+image: "assets/images/2.jpeg"
 ---
 
 
